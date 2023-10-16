@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T08:59:59.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="3N8kcGIYO8ugcIjUCQ3s" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T09:00:18.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Ut0MNLhUeX301ohnFvGG" version="22.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1282" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,8 +70,11 @@
         <mxCell id="B94d-iE2j5R3XaPv8adP-52" value="Địa chỉ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="B94d-iE2j5R3XaPv8adP-17">
           <mxGeometry y="78" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B94d-iE2j5R3XaPv8adP-54" value="Số lượng mua" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="B94d-iE2j5R3XaPv8adP-17">
+        <mxCell id="B94d-iE2j5R3XaPv8adP-53" value="Số điện thoại" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="B94d-iE2j5R3XaPv8adP-17">
           <mxGeometry y="108" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B94d-iE2j5R3XaPv8adP-54" value="Số lượng mua" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="B94d-iE2j5R3XaPv8adP-17">
+          <mxGeometry y="138" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B94d-iE2j5R3XaPv8adP-26" value="Đơn hàng" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="370" width="160" height="240" as="geometry">
@@ -117,9 +120,6 @@
         </mxCell>
         <mxCell id="B94d-iE2j5R3XaPv8adP-49" value="IdDonHang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="519" y="488" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="B94d-iE2j5R3XaPv8adP-53" value="Số điện thoại" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="565" y="258" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B94d-iE2j5R3XaPv8adP-55" value="Ngày nhập" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="522" y="528" width="80" height="30" as="geometry" />
